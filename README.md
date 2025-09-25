@@ -1,2 +1,3 @@
-# garra-hidraulica-automatizada
+# Automação de Garra Hidraúlica
+
 Projeto de automação de garra hidraúlica.
